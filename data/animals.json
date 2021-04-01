@@ -126,6 +126,34 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "cat",
+      "species": "catman",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious",
+        "loving"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "catman",
+      "species": "catman",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "catman",
+      "species": "man",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "15"
     }
   ]
 }
